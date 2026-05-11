@@ -1,0 +1,1 @@
+// This project ia ll about JavaScript learning basics and examples and pushint to github using opencode agent.
