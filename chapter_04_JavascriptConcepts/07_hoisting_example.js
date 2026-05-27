@@ -1,6 +1,8 @@
 console.log(greeting);
+
 var greeting = "Hello";
 console.log(greeting);
+console.log(typeof greeting);
 
 // Behind the scenes:
 
@@ -11,6 +13,6 @@ console.log(greeting);
 
 
 // Hoistig in let 
-console.log(aaa);
+//console.log(aaa); //Cannot access 'aaa' before initialization
 let aaa = "Pramod";
 console.log(aaa);
